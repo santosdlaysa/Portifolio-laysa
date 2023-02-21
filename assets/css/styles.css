@@ -416,7 +416,7 @@ img {
 }
 
 .skills__icon,
-.skills_arrow{
+.skills__arrow{
   font-size: 2rem;
   color: var(--first-color);
 }
@@ -710,7 +710,7 @@ img {
   margin-bottom: var(--mb-0-75);
 }
 
-.portfolio__button:hover .button_icon{
+.portfolio__button:hover .button__icon{
   transform: translateX(.25rem);
 }
 
