@@ -447,6 +447,7 @@ img {
   display:flex;
   align-items: center;
   margin-bottom: var(--mb-2-5);
+  cursor: pointer;
 }
 
 .skills__icon,
@@ -1164,7 +1165,7 @@ img {
   .project__container{
     background-color: var(--first-color-second);
     border-radius: 1rem;
-    padding: 3rem 2.5rem 0;
+    padding: 3rem 2.5rem 3rem;
     grid-template-columns: 1fr max-content;
     column-gap: 3rem;
   }
