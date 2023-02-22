@@ -1012,7 +1012,7 @@ img {
   .project__container,
   .contact__container,
   .footer__container{
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(1, 1fr);
   }
 
   .qualification__sections{
@@ -1099,22 +1099,25 @@ img {
 
   .about__container{
     column-gap: 5rem;
+    display: flex;
+    justify-content: center;
   }
 
   .about__img{
     width: 350px;
+    align-items: center;
   }
 
   .about__description{
-    text-align: initial;
+    text-align: center;
   }
 
   .about__info{
-    justify-content: space-between;
+    justify-content: space-evenly;
   }
 
   .about__buttons{
-    justify-content: initial;
+    justify-content: center;
   }
 
   .qualification__tabs{
