@@ -408,10 +408,10 @@ img {
 
 .about__description{
   margin-bottom: var(--mb-2-5);
-  text-align: justify;
+  text-align: center;
   margin-top: 2rem;
-  margin-left: 3rem;
-  margin-right: 3rem;
+  margin-left: 4rem;
+  margin-right: 4rem;
 }
 
 .about__info{
