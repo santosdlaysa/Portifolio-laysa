@@ -1218,6 +1218,12 @@ img {
     transform: translateX(-6rem);
   }
 
+  .about__description{
+    width: 85vh;
+    margin-left: 30%;
+  }
+
+
   .services__container{
     grid-template-columns: repeat(2, 238px);
   }
