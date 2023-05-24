@@ -416,6 +416,9 @@ img {
 
 .about__info{
   display: flex;
+  width: 30%;
+  margin-left: 35%;
+  height: 100px;
   justify-content: space-evenly;
   margin-bottom: var(--mb-2-5);
 }
